@@ -20,7 +20,7 @@
     "skipLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      //"@controllers/*": ["./src/controllers/*"]
+      // "@controllers/*": ["./src/controllers/*"]
     }                                 
   },
   "include": [
