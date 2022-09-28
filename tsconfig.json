@@ -22,5 +22,8 @@
     "paths": {
       //"@controllers/*": ["./src/controllers/*"]
     }                                 
-  }
+  },
+  "include": [
+    "src/**/*"
+  ]
 }
