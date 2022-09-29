@@ -4,7 +4,7 @@
 This is my template to start a nodeJS project using typescript, it implements 
 some libraries to help the development process and easily start a new project. 
 
-**Warning:** this template come with express installed, if you wont use it remove before init the Development server.
+**Warning:** this template come with express installed, if you wont use it remove from src/server.ts and src/routes.ts and uninstall the following dependencies before init the Development server.
 
 ```bash
   yarn remove express @types/express
