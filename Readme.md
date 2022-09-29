@@ -19,7 +19,7 @@ some libraries to help the development process and easily start a new project.
  - **Docker**
 
   - **Yarn**
-## Instalation
+## Development server
 
 You can run this project locally or using docker, both will create a live server, that is, you dont need to restart the server after doing some changes, I recommend use docker if you will need a database, and add it configuration to docker-compose.yml.
 
