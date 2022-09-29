@@ -26,7 +26,7 @@ You can run this project locally or using docker, both will create a live server
 First clone the repo.
 
 ```bash
-  git clone 
+  git clone https://github.com/DanOliveira18/node-ts-template.git
   cd node-ts-template
 ```
 
